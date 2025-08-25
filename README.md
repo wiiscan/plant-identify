@@ -39,16 +39,6 @@ Update the `.env.local` file with your API keys.
 pnpm run dev
 ```
 
-## Environment Variables
-
-Ensure you have the following in your `.env.local`:
-```plaintext
-OPENAI_API_KEY=your_openai_api_key  
-GOOGLE_APPLICATION_CREDENTIALS=/absolute/path/to/service-account.json  
-NEXT_PUBLIC_GOOGLE_API_KEY=your_google_api_key  
-GEMINI_API_URL=https://gemini-api-url.com/v1/identify  
-```
-
 ## Contributing
 
 Pull requests are welcome. Open an issue first to discuss major changes.
